@@ -10,4 +10,4 @@ test.txt: record the samples used for testing, the test set has 366 samples.
 
 Note: The samples for training and testing can be selected according to train.txt and test.txt, or you can set which ones are used for training and which ones are used for testing.
 
-[数据集下载链接：](https://pan.baidu.com/s/1nFBY2engqYfhn_Br3aCd8g ) 提取码：rn97 
+[Dataset download URL：](https://pan.baidu.com/s/1nFBY2engqYfhn_Br3aCd8g ) 提取码：rn97 
