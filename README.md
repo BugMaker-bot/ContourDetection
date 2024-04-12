@@ -1,5 +1,5 @@
 # Underwater Aquaculture Object Contour
-Paper： "<u>Underwater Object Contour Detection: Dataset and Benchmark</u>"
+Our paper： <u>"Underwater Object Contour Detection: Dataset and Benchmark"</u>
 
 **UAOC (Underwater Aquaculture Object Contour)**: Underwater Aquaculture Object Contour dataset, retaining the detailed contours of three underwater organisms for various contour detection experiments.
 
