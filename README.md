@@ -1,7 +1,8 @@
 # ContourDetection
 Underwater Object Contour Detection: Dataset and Benchmark
 
-UAOC (Underwater Aquaculture Object Contour): Underwater Aquaculture Object Contour dataset, retaining the detailed contours of three underwater organisms for various contour detection experiments.
+**UAOC (Underwater Aquaculture Object Contour)**: Underwater Aquaculture Object Contour dataset, retaining the detailed contours of three underwater organisms for various contour detection experiments.
+
 **JPEGImages**: the folder where the original images are stored has 1766 images in total.
 
 **SegmentationContour**: contour/edge detection labels, 1766 images in total.
